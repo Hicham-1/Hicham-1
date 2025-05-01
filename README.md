@@ -15,7 +15,7 @@
 
 ---
 
-### ⚡ GitHub Stats
+### ⚡ GitHub public Stats
 <!-- Animated Stats Cards -->
 <div align="center">
   <a href="https://github.com/Hicham-1">
