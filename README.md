@@ -24,11 +24,6 @@
   </a>
 </div>
 
-<!-- Animated Top Languages -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hicham-1&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=6" alt="Top Languages" />
-</div>
-
 ---
 
 ### 🌟 Currently Working On
